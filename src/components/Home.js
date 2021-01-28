@@ -7,7 +7,7 @@ function Home() {
             <h1>Toxic Bot</h1>
             <div className="description-div">
                 <div className="image-div">
-                    <img src="https://i.ibb.co/7tynPG9/Logo.jpg" className="logo-image" ></img>
+                    <img src="https://i.ibb.co/7tynPG9/Logo.jpg" alt="Logo" className="logo-image" ></img>
                 </div>
                 <div className="description-text">
                     A discord Bot to play some of the most famous meme dialogues and songs out there !!!! <br /> <br />
@@ -23,7 +23,7 @@ function Home() {
 
                 </div>
             </div>
-            <a href="https://discord.com/oauth2/authorize?client_id=767652353171652629&permissions=0&scope=bot" > 
+            <a href="https://discord.com/api/oauth2/authorize?client_id=767652353171652629&permissions=8&scope=bot" > 
                 <button className="add-bot-button">
                     <h2>Add to your server </h2>
                 </button>
