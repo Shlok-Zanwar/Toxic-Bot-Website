@@ -1,5 +1,7 @@
 # Toxic-Bot-Website
 
-A discord meme bot for playing memes in voice channel.
-Website made using react js.
-Currently hosted on :- https://toxicbotdiscord.github.io/
+Website :- https://toxicbotdiscord.github.io/ <br />
+Checkout the blog on this :- https://shlok-zanwar.github.io/blogs/toxicbot <br /><br />
+
+A discord voice bot for playing memes in your discord voice channel.<br />
+The website is made using React.js.
